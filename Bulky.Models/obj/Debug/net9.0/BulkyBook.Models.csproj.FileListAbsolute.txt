@@ -1,0 +1,14 @@
+D:\Seif\Progarmming\Projects\Real world e-commerce application using ASP.NET Core MVC\Bulky\Bulky.Models\bin\Debug\net9.0\BulkyBook.Models.deps.json
+D:\Seif\Progarmming\Projects\Real world e-commerce application using ASP.NET Core MVC\Bulky\Bulky.Models\bin\Debug\net9.0\BulkyBook.Models.runtimeconfig.json
+D:\Seif\Progarmming\Projects\Real world e-commerce application using ASP.NET Core MVC\Bulky\Bulky.Models\bin\Debug\net9.0\BulkyBook.Models.dll
+D:\Seif\Progarmming\Projects\Real world e-commerce application using ASP.NET Core MVC\Bulky\Bulky.Models\bin\Debug\net9.0\BulkyBook.Models.pdb
+D:\Seif\Progarmming\Projects\Real world e-commerce application using ASP.NET Core MVC\Bulky\Bulky.Models\obj\Debug\net9.0\BulkyBook.Models.csproj.AssemblyReference.cache
+D:\Seif\Progarmming\Projects\Real world e-commerce application using ASP.NET Core MVC\Bulky\Bulky.Models\obj\Debug\net9.0\BulkyBook.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Seif\Progarmming\Projects\Real world e-commerce application using ASP.NET Core MVC\Bulky\Bulky.Models\obj\Debug\net9.0\BulkyBook.Models.AssemblyInfoInputs.cache
+D:\Seif\Progarmming\Projects\Real world e-commerce application using ASP.NET Core MVC\Bulky\Bulky.Models\obj\Debug\net9.0\BulkyBook.Models.AssemblyInfo.cs
+D:\Seif\Progarmming\Projects\Real world e-commerce application using ASP.NET Core MVC\Bulky\Bulky.Models\obj\Debug\net9.0\BulkyBook.Models.csproj.CoreCompileInputs.cache
+D:\Seif\Progarmming\Projects\Real world e-commerce application using ASP.NET Core MVC\Bulky\Bulky.Models\obj\Debug\net9.0\BulkyBook.Models.dll
+D:\Seif\Progarmming\Projects\Real world e-commerce application using ASP.NET Core MVC\Bulky\Bulky.Models\obj\Debug\net9.0\refint\BulkyBook.Models.dll
+D:\Seif\Progarmming\Projects\Real world e-commerce application using ASP.NET Core MVC\Bulky\Bulky.Models\obj\Debug\net9.0\BulkyBook.Models.pdb
+D:\Seif\Progarmming\Projects\Real world e-commerce application using ASP.NET Core MVC\Bulky\Bulky.Models\obj\Debug\net9.0\BulkyBook.Models.genruntimeconfig.cache
+D:\Seif\Progarmming\Projects\Real world e-commerce application using ASP.NET Core MVC\Bulky\Bulky.Models\obj\Debug\net9.0\ref\BulkyBook.Models.dll

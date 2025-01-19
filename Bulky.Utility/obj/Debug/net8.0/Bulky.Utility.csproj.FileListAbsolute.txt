@@ -1,0 +1,15 @@
+D:\Seif\Progarmming\Projects\Real world e-commerce application using ASP.NET Core MVC\Bulky\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.deps.json
+D:\Seif\Progarmming\Projects\Real world e-commerce application using ASP.NET Core MVC\Bulky\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.runtimeconfig.json
+D:\Seif\Progarmming\Projects\Real world e-commerce application using ASP.NET Core MVC\Bulky\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.dll
+D:\Seif\Progarmming\Projects\Real world e-commerce application using ASP.NET Core MVC\Bulky\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.pdb
+D:\Seif\Progarmming\Projects\Real world e-commerce application using ASP.NET Core MVC\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.csproj.AssemblyReference.cache
+D:\Seif\Progarmming\Projects\Real world e-commerce application using ASP.NET Core MVC\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Seif\Progarmming\Projects\Real world e-commerce application using ASP.NET Core MVC\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.AssemblyInfoInputs.cache
+D:\Seif\Progarmming\Projects\Real world e-commerce application using ASP.NET Core MVC\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.AssemblyInfo.cs
+D:\Seif\Progarmming\Projects\Real world e-commerce application using ASP.NET Core MVC\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+D:\Seif\Progarmming\Projects\Real world e-commerce application using ASP.NET Core MVC\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.sourcelink.json
+D:\Seif\Progarmming\Projects\Real world e-commerce application using ASP.NET Core MVC\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.dll
+D:\Seif\Progarmming\Projects\Real world e-commerce application using ASP.NET Core MVC\Bulky\Bulky.Utility\obj\Debug\net8.0\refint\Bulky.Utility.dll
+D:\Seif\Progarmming\Projects\Real world e-commerce application using ASP.NET Core MVC\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.pdb
+D:\Seif\Progarmming\Projects\Real world e-commerce application using ASP.NET Core MVC\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.genruntimeconfig.cache
+D:\Seif\Progarmming\Projects\Real world e-commerce application using ASP.NET Core MVC\Bulky\Bulky.Utility\obj\Debug\net8.0\ref\Bulky.Utility.dll

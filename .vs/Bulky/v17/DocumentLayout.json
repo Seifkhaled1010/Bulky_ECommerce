@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Seif\\Progarmming\\Projects\\Real world e-commerce application using ASP.NET Core MVC\\Bulky\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10416E82-0E8F-4FCE-A8C1-707B06FE855C}|Bulky_Web\\BulkyBookWeb.csproj|d:\\seif\\progarmming\\projects\\real world e-commerce application using asp.net core mvc\\bulky\\bulky_web\\areas\\admin\\views\\company\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10416E82-0E8F-4FCE-A8C1-707B06FE855C}|Bulky_Web\\BulkyBookWeb.csproj|solutionrelative:bulky_web\\areas\\admin\\views\\company\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10416E82-0E8F-4FCE-A8C1-707B06FE855C}|Bulky_Web\\BulkyBookWeb.csproj|d:\\seif\\progarmming\\projects\\real world e-commerce application using asp.net core mvc\\bulky\\bulky_web\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10416E82-0E8F-4FCE-A8C1-707B06FE855C}|Bulky_Web\\BulkyBookWeb.csproj|solutionrelative:bulky_web\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10416E82-0E8F-4FCE-A8C1-707B06FE855C}|Bulky_Web\\BulkyBookWeb.csproj|d:\\seif\\progarmming\\projects\\real world e-commerce application using asp.net core mvc\\bulky\\bulky_web\\areas\\admin\\views\\product\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10416E82-0E8F-4FCE-A8C1-707B06FE855C}|Bulky_Web\\BulkyBookWeb.csproj|solutionrelative:bulky_web\\areas\\admin\\views\\product\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5900F3CE-A08E-4802-BA4F-D280580583BF}|Bulky.DataAccess\\BulkyBook.DataAccess.csproj|d:\\seif\\progarmming\\projects\\real world e-commerce application using asp.net core mvc\\bulky\\bulky.dataaccess\\migrations\\20250119014728_addcompanyrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5900F3CE-A08E-4802-BA4F-D280580583BF}|Bulky.DataAccess\\BulkyBook.DataAccess.csproj|solutionrelative:bulky.dataaccess\\migrations\\20250119014728_addcompanyrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5900F3CE-A08E-4802-BA4F-D280580583BF}|Bulky.DataAccess\\BulkyBook.DataAccess.csproj|d:\\seif\\progarmming\\projects\\real world e-commerce application using asp.net core mvc\\bulky\\bulky.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5900F3CE-A08E-4802-BA4F-D280580583BF}|Bulky.DataAccess\\BulkyBook.DataAccess.csproj|solutionrelative:bulky.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10416E82-0E8F-4FCE-A8C1-707B06FE855C}|Bulky_Web\\BulkyBookWeb.csproj|d:\\seif\\progarmming\\projects\\real world e-commerce application using asp.net core mvc\\bulky\\bulky_web\\areas\\admin\\views\\company\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10416E82-0E8F-4FCE-A8C1-707B06FE855C}|Bulky_Web\\BulkyBookWeb.csproj|solutionrelative:bulky_web\\areas\\admin\\views\\company\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CE4B78-A40E-4FAB-B9FF-768672661F17}|Bulky.Models\\BulkyBook.Models.csproj|d:\\seif\\progarmming\\projects\\real world e-commerce application using asp.net core mvc\\bulky\\bulky.models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19CE4B78-A40E-4FAB-B9FF-768672661F17}|Bulky.Models\\BulkyBook.Models.csproj|solutionrelative:bulky.models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10416E82-0E8F-4FCE-A8C1-707B06FE855C}|Bulky_Web\\BulkyBookWeb.csproj|d:\\seif\\progarmming\\projects\\real world e-commerce application using asp.net core mvc\\bulky\\bulky_web\\wwwroot\\js\\company.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{10416E82-0E8F-4FCE-A8C1-707B06FE855C}|Bulky_Web\\BulkyBookWeb.csproj|solutionrelative:bulky_web\\wwwroot\\js\\company.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E69177-D765-4873-94BD-098696C71113}|Bulky.Utility\\BulkyBook.Utility.csproj|d:\\seif\\progarmming\\projects\\real world e-commerce application using asp.net core mvc\\bulky\\bulky.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E69177-D765-4873-94BD-098696C71113}|Bulky.Utility\\BulkyBook.Utility.csproj|solutionrelative:bulky.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10416E82-0E8F-4FCE-A8C1-707B06FE855C}|Bulky_Web\\BulkyBookWeb.csproj|d:\\seif\\progarmming\\projects\\real world e-commerce application using asp.net core mvc\\bulky\\bulky_web\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10416E82-0E8F-4FCE-A8C1-707B06FE855C}|Bulky_Web\\BulkyBookWeb.csproj|solutionrelative:bulky_web\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10416E82-0E8F-4FCE-A8C1-707B06FE855C}|Bulky_Web\\BulkyBookWeb.csproj|d:\\seif\\progarmming\\projects\\real world e-commerce application using asp.net core mvc\\bulky\\bulky_web\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10416E82-0E8F-4FCE-A8C1-707B06FE855C}|Bulky_Web\\BulkyBookWeb.csproj|solutionrelative:bulky_web\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10416E82-0E8F-4FCE-A8C1-707B06FE855C}|Bulky_Web\\BulkyBookWeb.csproj|d:\\seif\\progarmming\\projects\\real world e-commerce application using asp.net core mvc\\bulky\\bulky_web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10416E82-0E8F-4FCE-A8C1-707B06FE855C}|Bulky_Web\\BulkyBookWeb.csproj|solutionrelative:bulky_web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Seif\\Progarmming\\Projects\\Real world e-commerce application using ASP.NET Core MVC\\Bulky\\Bulky_Web\\Areas\\Admin\\Views\\Company\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bulky_Web\\Areas\\Admin\\Views\\Company\\Index.cshtml",
+              "ToolTip": "D:\\Seif\\Progarmming\\Projects\\Real world e-commerce application using ASP.NET Core MVC\\Bulky\\Bulky_Web\\Areas\\Admin\\Views\\Company\\Index.cshtml",
+              "RelativeToolTip": "Bulky_Web\\Areas\\Admin\\Views\\Company\\Index.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T02:06:53.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Seif\\Progarmming\\Projects\\Real world e-commerce application using ASP.NET Core MVC\\Bulky\\Bulky_Web\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bulky_Web\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\Seif\\Progarmming\\Projects\\Real world e-commerce application using ASP.NET Core MVC\\Bulky\\Bulky_Web\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Bulky_Web\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T02:06:49.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Upsert.cshtml",
+              "DocumentMoniker": "D:\\Seif\\Progarmming\\Projects\\Real world e-commerce application using ASP.NET Core MVC\\Bulky\\Bulky_Web\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "RelativeDocumentMoniker": "Bulky_Web\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "ToolTip": "D:\\Seif\\Progarmming\\Projects\\Real world e-commerce application using ASP.NET Core MVC\\Bulky\\Bulky_Web\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "RelativeToolTip": "Bulky_Web\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T02:06:36.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250119014728_addCompanyRecords.cs",
+              "DocumentMoniker": "D:\\Seif\\Progarmming\\Projects\\Real world e-commerce application using ASP.NET Core MVC\\Bulky\\Bulky.DataAccess\\Migrations\\20250119014728_addCompanyRecords.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Migrations\\20250119014728_addCompanyRecords.cs",
+              "ToolTip": "D:\\Seif\\Progarmming\\Projects\\Real world e-commerce application using ASP.NET Core MVC\\Bulky\\Bulky.DataAccess\\Migrations\\20250119014728_addCompanyRecords.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Migrations\\20250119014728_addCompanyRecords.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T01:47:28.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Seif\\Progarmming\\Projects\\Real world e-commerce application using ASP.NET Core MVC\\Bulky\\Bulky.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Seif\\Progarmming\\Projects\\Real world e-commerce application using ASP.NET Core MVC\\Bulky\\Bulky.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwC8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T01:36:33.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Upsert.cshtml",
+              "DocumentMoniker": "D:\\Seif\\Progarmming\\Projects\\Real world e-commerce application using ASP.NET Core MVC\\Bulky\\Bulky_Web\\Areas\\Admin\\Views\\Company\\Upsert.cshtml",
+              "RelativeDocumentMoniker": "Bulky_Web\\Areas\\Admin\\Views\\Company\\Upsert.cshtml",
+              "ToolTip": "D:\\Seif\\Progarmming\\Projects\\Real world e-commerce application using ASP.NET Core MVC\\Bulky\\Bulky_Web\\Areas\\Admin\\Views\\Company\\Upsert.cshtml",
+              "RelativeToolTip": "Bulky_Web\\Areas\\Admin\\Views\\Company\\Upsert.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T04:13:46.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Company.cs",
+              "DocumentMoniker": "D:\\Seif\\Progarmming\\Projects\\Real world e-commerce application using ASP.NET Core MVC\\Bulky\\Bulky.Models\\Company.cs",
+              "RelativeDocumentMoniker": "Bulky.Models\\Company.cs",
+              "ToolTip": "D:\\Seif\\Progarmming\\Projects\\Real world e-commerce application using ASP.NET Core MVC\\Bulky\\Bulky.Models\\Company.cs",
+              "RelativeToolTip": "Bulky.Models\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T01:00:56.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "company.js",
+              "DocumentMoniker": "D:\\Seif\\Progarmming\\Projects\\Real world e-commerce application using ASP.NET Core MVC\\Bulky\\Bulky_Web\\wwwroot\\js\\company.js",
+              "RelativeDocumentMoniker": "Bulky_Web\\wwwroot\\js\\company.js",
+              "ToolTip": "D:\\Seif\\Progarmming\\Projects\\Real world e-commerce application using ASP.NET Core MVC\\Bulky\\Bulky_Web\\wwwroot\\js\\company.js",
+              "RelativeToolTip": "Bulky_Web\\wwwroot\\js\\company.js",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-16T04:42:22.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SD.cs",
+              "DocumentMoniker": "D:\\Seif\\Progarmming\\Projects\\Real world e-commerce application using ASP.NET Core MVC\\Bulky\\Bulky.Utility\\SD.cs",
+              "RelativeDocumentMoniker": "Bulky.Utility\\SD.cs",
+              "ToolTip": "D:\\Seif\\Progarmming\\Projects\\Real world e-commerce application using ASP.NET Core MVC\\Bulky\\Bulky.Utility\\SD.cs",
+              "RelativeToolTip": "Bulky.Utility\\SD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T03:20:11.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Seif\\Progarmming\\Projects\\Real world e-commerce application using ASP.NET Core MVC\\Bulky\\Bulky_Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Bulky_Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "D:\\Seif\\Progarmming\\Projects\\Real world e-commerce application using ASP.NET Core MVC\\Bulky\\Bulky_Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Bulky_Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABkAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T00:39:54.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\Seif\\Progarmming\\Projects\\Real world e-commerce application using ASP.NET Core MVC\\Bulky\\Bulky_Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Bulky_Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "D:\\Seif\\Progarmming\\Projects\\Real world e-commerce application using ASP.NET Core MVC\\Bulky\\Bulky_Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Bulky_Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAIwHEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T22:38:44.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Seif\\Progarmming\\Projects\\Real world e-commerce application using ASP.NET Core MVC\\Bulky\\Bulky_Web\\Program.cs",
+              "RelativeDocumentMoniker": "Bulky_Web\\Program.cs",
+              "ToolTip": "D:\\Seif\\Progarmming\\Projects\\Real world e-commerce application using ASP.NET Core MVC\\Bulky\\Bulky_Web\\Program.cs",
+              "RelativeToolTip": "Bulky_Web\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T02:47:59.585Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
